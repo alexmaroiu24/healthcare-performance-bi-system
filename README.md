@@ -32,7 +32,7 @@ The most striking result was the low utilization of capacity in lower-level hosp
 1. Data cleaning and validation
 2. Principal Component Analysis (PCA)
 3. Cluster Analysis (k-means)
-4. DEA BCC output-oriented efficiency analysis
+4. DEA BCC output-oriented
 5. Interactive Power BI dashboard development
 
 ### Key Analytical Decisions
