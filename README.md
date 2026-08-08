@@ -48,7 +48,7 @@ The most striking result was the low utilization of capacity in lower-level hosp
 
 ## Performance Dashboard
 
-![Performance Dashboard](images/dashboard_performance.png)
+![Performance Dashboard](dashboards/dashboard_performance.png)
 
 This dashboard provides a national view of hospital performance. The top indicators show that bed occupancy remains well below the level usually associated with efficient capacity utilization. When the data are filtered by competence level, lower-level hospitals emerge as the main source of underutilized capacity.
 
@@ -62,7 +62,7 @@ Performance disparities are not driven only by funding levels, but also by diffe
 
 ## DEA Efficiency Dashboard
 
-![DEA Dashboard](images/dashboard_dea.png)
+![DEA Dashboard](dashboards/dashboard_dea.png)
 
 The DEA dashboard compares hospitals with peers that have similar structural characteristics. Efficient hospitals define the benchmark frontier, while inefficient hospitals are evaluated relative to achievable peer performance rather than to the national average.
 
