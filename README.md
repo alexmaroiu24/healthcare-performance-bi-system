@@ -1,6 +1,6 @@
 # Hospital Performance & Efficiency Decision Support System (Romania, 2024)
 
-An interactive analytics system developed to evaluate the performance and efficiency of Romanian public hospitals through **statistical analysis, efficiency modeling, and business intelligence visualization**. The project combines **PCA, Cluster Analysis, DEA BCC, and Power BI** to transform hospital operational data into actionable management insights.
+An integrated decision support system developed to evaluate the performance and efficiency of Romanian public hospitals through **statistical analysis, efficiency modeling, and business intelligence visualization**. The project combines **PCA, Cluster Analysis, DEA BCC, and Power BI** to transform hospital operational data into actionable management insights.
 
 ---
 
